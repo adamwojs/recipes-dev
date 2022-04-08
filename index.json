@@ -437,11 +437,11 @@
     "branch": "master",
     "is_contrib": false,
     "_links": {
-        "repository": "github.com/ibexa/recipes-dev",
-        "origin_template": "{package}:{version}@github.com/ibexa/recipes-dev:master",
-        "recipe_template": "https://raw.githubusercontent.com/ibexa/recipes-dev/flex/main/{package_dotted}.{version}.json",
+        "repository": "github.com/adamwojs/recipes-dev",
+        "origin_template": "{package}:{version}@github.com/adamwojs/recipes-dev:master",
+        "recipe_template": "https://raw.githubusercontent.com/adamwojs/recipes-dev/flex/main/{package_dotted}.{version}.json",
         "recipe_template_relative": "{package_dotted}.{version}.json",
-        "archived_recipes_template": "https://raw.githubusercontent.com/ibexa/recipes-dev/flex/main/archived/{package_dotted}/{ref}.json",
+        "archived_recipes_template": "https://raw.githubusercontent.com/adamwojs/recipes-dev/flex/main/archived/{package_dotted}/{ref}.json",
         "archived_recipes_template_relative": "archived/{package_dotted}/{ref}.json"
     }
 }
